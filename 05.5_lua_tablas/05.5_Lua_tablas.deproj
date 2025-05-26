@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+  <file>
+    <filename>library.lua</filename>
+  </file>
+  <file>
+    <filename>main.lua</filename>
+  </file>
+  <file>
+    <filename>slaxdom.lua</filename>
+  </file>
+  <file>
+    <filename>slaxml.lua</filename>
+  </file>
+  <file>
+    <filename>xml.lua</filename>
+  </file>
+</project>
