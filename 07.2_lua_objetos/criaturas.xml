@@ -1,0 +1,20 @@
+<criaturas>
+    <criatura>
+        <name> dragon </name>
+        <texture> creatures/dragon.png </texture>
+        <size>
+            <X> 128 </X>
+            <Y> 128 </Y>
+        </size>
+    </criatura>
+    <criatura>
+        <name> huidizo </name>
+        <texture> creatures/gryphon.png </texture>
+        <size>
+            <X> 128 </X>
+            <Y> 128 </Y>
+        </size>
+    </criatura>
+</criaturas>
+
+            
